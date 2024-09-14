@@ -8,7 +8,7 @@
 <body>
     <h1>首页</h1>
     <button onclick="window.location.href='https://tntfish.github.io/';">
-        点击跳转
+        全是半成品
     </button>
 </body>
 </html>
