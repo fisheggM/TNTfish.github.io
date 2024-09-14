@@ -1,9 +1,15 @@
-# TNTfish.github.io
-
-
-
-oh wait wait wait,this is a markdown source file and there also is nothing
-
-以上都是我乱打的
-
-（1）这是一段测试文字
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>中文首页</title>
+</head>
+<body>
+    <h1>首页</h1>
+    <button onclick="window.location.href='https://tntfish.github.io/zh-CN/home.html';">
+        点击跳转
+    </button>
+</body>
+</html>
